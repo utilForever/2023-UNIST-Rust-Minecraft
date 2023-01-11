@@ -4,7 +4,7 @@
 
 ## Contents
 
-- Week 0 (1/11)
+- Week 0 (1/11) [[Lecture]](./1%20-%20Lecture/230111%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%200.pdf)
   - Introduction
 - Week 1 (1/18)
   - A Tour of Rust, Part 1
