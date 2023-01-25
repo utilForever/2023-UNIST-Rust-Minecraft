@@ -6,7 +6,7 @@
 
 - Week 0 (1/11) [[Lecture]](./1%20-%20Lecture/230111%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%200.pdf)
   - Introduction
-- Week 1 (1/18) [[Lecture]](./1%20-%20Lecture/230118%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/230118%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%201/)
+- Week 1 (1/18) [[Lecture]](./1%20-%20Lecture/230118%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/230118%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%201/) [[Solution]](./4%20-%20Solution/230118%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%201/)
   - A Tour of Rust, Part 1
   - Assignment #1
 - Week 2 (1/25)
