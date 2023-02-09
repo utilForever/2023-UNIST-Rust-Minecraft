@@ -10,27 +10,31 @@
   - A Tour of Rust, Part 1
   - Assignment #1
 - Week 2 (1/25) [[Lecture]](./1%20-%20Lecture/230125%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%202.pdf) [[Assignment]](./3%20-%20Assignment/230125%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%202/) [[Solution]](./4%20-%20Solution/230125%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%202/)
+  - Explain Solution of Assignment #1
   - A Tour of Rust, Part 2
   - Assignment #2
 - Week 3 (2/1)
+  - A Tour of Rust, Part 2
+  - Assignment #2
+- Week 4 (2/8)
+  - Explain Solution of Assignment #2
+- Week 5 (2/15)
   - A Tour of Rust, Part 3
   - Assignment #3
-- Week 4 (2/8)
-  - Making Minecraft, Part 1
-- Week 5 (2/15)
-  - Making Minecraft, Part 2
 - Week 6 (2/22)
-  - Making Minecraft, Part 3
+  - Making Minecraft, Part 1
 - Week 7 (3/1)
-  - Making Minecraft, Part 4
+  - Making Minecraft, Part 2
 - Week 8 (3/8)
-  - Making Minecraft, Part 5
+  - Making Minecraft, Part 3
 - Week 9 (3/15)
-  - Making Minecraft, Part 6
+  - Making Minecraft, Part 4
 - Week 10 (3/22)
-  - Making Minecraft, Part 7
+  - Making Minecraft, Part 5
 - Week 11 (3/29)
-  - Making Minecraft, Part 8
+  - Making Minecraft, Part 6
+- Week 12 (4/5)
+  - Making Minecraft, Part 7
 
 ## References
 
