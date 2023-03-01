@@ -18,7 +18,7 @@
   - Assignment #2
 - Week 4 (2/8)
   - Explain Solution of Assignment #2
-- Week 5 (3/1) [[Lecture]](./1%20-%20Lecture/230301%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%205.pdf)
+- Week 5 (3/1) [[Lecture]](./1%20-%20Lecture/230301%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%205.pdf) [[Assignment]](./3%20-%20Assignment/230301%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%205/)
   - A Tour of Rust, Part 3
   - Assignment #3
 - Week 6 (3/8)
