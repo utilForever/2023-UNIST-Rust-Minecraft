@@ -18,23 +18,31 @@
   - Assignment #2
 - Week 4 (2/8)
   - Explain Solution of Assignment #2
-- Week 5 (2/15)
+- Week 5 (3/1)
   - A Tour of Rust, Part 3
   - Assignment #3
-- Week 6 (2/22)
+- Week 6 (3/8)
+  - A Tour of Rust, Part 4
+  - Assignment #4
+- Week 7 (3/15)
+  - A Tour of Rust, Part 5
+  - Assignment #5
+- Week 8 (3/22)
   - Making Minecraft, Part 1
-- Week 7 (3/1)
+- Week 9 (3/29)
   - Making Minecraft, Part 2
-- Week 8 (3/8)
+- Week 10 (4/5)
   - Making Minecraft, Part 3
-- Week 9 (3/15)
+- Week 11 (4/12)
   - Making Minecraft, Part 4
-- Week 10 (3/22)
+- Week 12 (4/19)
   - Making Minecraft, Part 5
-- Week 11 (3/29)
+- Week 13 (4/26)
   - Making Minecraft, Part 6
-- Week 12 (4/5)
+- Week 14 (5/3)
   - Making Minecraft, Part 7
+- Week 15 (5/10)
+  - Making Minecraft, Part 8
 
 ## References
 
