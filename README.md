@@ -29,24 +29,21 @@
 - Week 8 (3/22)
   - A Tour of Rust, Part 5
   - Assignment #5
-- Week 9 (3/29)
-  - A Tour of Rust, Part 6
-  - Assignment #6
-- Week 10 (4/26)
+- Week 9 (4/26)
   - Making Minecraft, Part 1
-- Week 11 (5/3)
+- Week 10 (5/3)
   - Making Minecraft, Part 2
-- Week 12 (5/10)
+- Week 11 (5/10)
   - Making Minecraft, Part 3
-- Week 13 (5/17)
+- Week 12 (5/17)
   - Making Minecraft, Part 4
-- Week 14 (5/24)
+- Week 13 (5/24)
   - Making Minecraft, Part 5
-- Week 15 (5/31)
+- Week 14 (5/31)
   - Making Minecraft, Part 6
-- Week 16 (6/7)
+- Week 15 (6/7)
   - Making Minecraft, Part 7
-- Week 17 (6/14)
+- Week 16 (6/14)
   - Making Minecraft, Part 8
 
 ## References
