@@ -29,22 +29,29 @@
 - Week 8 (3/22)
   - A Tour of Rust, Part 5
   - Assignment #5
-- Week 9 (4/26)
+- Week 9 (5/10)
   - Making Minecraft, Part 1
-- Week 10 (5/3)
+    - Project Setup
+    - Make a Simple Window using `gl` and `glfw`
+      - The Main Loop
+      - Double Buffering
+      - Event Pooling
+- Week 10 (5/17)
   - Making Minecraft, Part 2
-- Week 11 (5/10)
+    - Color Batch Rendering
+      - Drawing a Quad
+      - Make a Shader
+        - Vertex Shader
+        - Fragment Shader
+    - Event Processing
+- Week 11 (5/24)
   - Making Minecraft, Part 3
-- Week 12 (5/17)
-  - Making Minecraft, Part 4
-- Week 13 (5/24)
-  - Making Minecraft, Part 5
-- Week 14 (5/31)
-  - Making Minecraft, Part 6
-- Week 15 (6/7)
-  - Making Minecraft, Part 7
-- Week 16 (6/14)
-  - Making Minecraft, Part 8
+    - Texture Batch Rendering
+      - Create a Texture
+      - Texture Mapping  
+    - Debugging
+    - Show FPS
+- Week 12 ~ (TBA)
 
 ## References
 
