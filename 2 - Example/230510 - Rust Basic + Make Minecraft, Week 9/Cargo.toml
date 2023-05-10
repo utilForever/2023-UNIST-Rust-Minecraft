@@ -1,0 +1,16 @@
+[package]
+name = "minecraft"
+version = "0.1.0"
+authors = ["Chris Ohk <utilforever@gmail.com>"]
+description = "A reimplementation of Minecraft written in Rust"
+repository = "https://github.com/utilforever/minecraft-rs"
+readme = "README.md"
+keywords = [ "minecraft", "game", "voxel", "sandbox" ]
+license = "MIT"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gl = "0.14.0"
+glfw = "0.51.0"
