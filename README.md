@@ -29,7 +29,7 @@
 - Week 8 (3/22)
   - A Tour of Rust, Part 5
   - Assignment #5
-- Week 9 (5/10)
+- Week 9 (5/10) [[Code]](./2%20-%20Example/230510%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%209/)
   - Making Minecraft, Part 1
     - Project Setup
     - Make a Simple Window using `gl` and `glfw`
