@@ -36,7 +36,7 @@
       - The Main Loop
       - Double Buffering
       - Event Pooling
-- Week 10 (5/17)
+- Week 10 (7/18)
   - Making Minecraft, Part 2
     - Color Batch Rendering
       - Drawing a Quad
@@ -44,7 +44,7 @@
         - Vertex Shader
         - Fragment Shader
     - Event Processing
-- Week 11 (5/24)
+- Week 11 (8/1)
   - Making Minecraft, Part 3
     - Texture Batch Rendering
       - Create a Texture
