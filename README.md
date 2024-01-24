@@ -51,6 +51,10 @@
       - Texture Mapping  
     - Debugging
     - Show FPS
+- Week X (1/24) [[Code]](./2%20-%20Example/240124%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Chunk Manager for Improving Performance
+      - Reduce the draw call for regenerating the chunk
 - Week X (1/31) [[Code]](./2%20-%20Example/240131%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
   - Making Minecraft, Part X
     - Improve Performance
