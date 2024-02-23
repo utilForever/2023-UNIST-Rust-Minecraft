@@ -51,6 +51,11 @@
       - Texture Mapping  
     - Debugging
     - Show FPS
+- Week X (2/23) [[Code]](./2%20-%20Example/240223%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Support for different textures per block side
+    - Code Refactoring
+      - Move some type aliases to another files
 - Week X (2/28) [[Code]](./2%20-%20Example/240228%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
   - Making Minecraft, Part X
     - Transparent Blocks
