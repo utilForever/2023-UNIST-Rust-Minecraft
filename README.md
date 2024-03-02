@@ -51,6 +51,14 @@
       - Texture Mapping  
     - Debugging
     - Show FPS
+- Week X (2/28) [[Code]](./2%20-%20Example/240228%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Transparent Blocks
+    - Trees
+    - Code Refactoring
+      - Delete unused files
+    - Improve Performance
+      - Reinitialize the VBO each time a chunk has been invalidated
 - Week X (3/6) [[Code]](./2%20-%20Example/240306%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
   - Making Minecraft, Part X
     - AABB Collision Detection
