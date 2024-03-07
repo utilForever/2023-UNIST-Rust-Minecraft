@@ -51,6 +51,11 @@
       - Texture Mapping  
     - Debugging
     - Show FPS
+- Week X (3/6) [[Code]](./2%20-%20Example/240306%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - AABB Collision Detection
+    - Fix bugs with the player movement
+      - Jump key spam issue
 - Week X (3/13) [[Code]](./2%20-%20Example/240313%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
   - Making Minecraft, Part X
     - Fixed Timestep Physics
