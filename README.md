@@ -51,7 +51,12 @@
       - Texture Mapping  
     - Debugging
     - Show FPS
-- Week 12 ~ (TBA)
+- Week X (4/7) [[Code]](./2%20-%20Example/240407%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Code Refactoring
+      - Split main into multiple files
+      - Move some functions for readability
+      - Rename some symbols
 
 ## References
 
