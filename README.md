@@ -104,6 +104,12 @@
       - Replace triple for loops with `BlockIterators`
     - Add a crosshair in the center of the screen
       - Implement a base system for GUI
+- Week X (5/4) [[Code]](./2%20-%20Example/240504%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Add Block Outline
+      - The block that the player is looking at
+    - Draw The Hotbar Texture at the bottom of the screen
+    - Add Basic Lighting System
 
 ## References
 
