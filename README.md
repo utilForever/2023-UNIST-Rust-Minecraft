@@ -110,6 +110,10 @@
       - The block that the player is looking at
     - Draw The Hotbar Texture at the bottom of the screen
     - Add Basic Lighting System
+- Week X (5/12) [[Code]](./2%20-%20Example/240512%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Implement Hotbar and Inventory System
+    - Refactor GUI rendering code
 
 ## References
 
