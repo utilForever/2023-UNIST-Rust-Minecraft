@@ -114,6 +114,10 @@
   - Making Minecraft, Part X
     - Implement Hotbar and Inventory System
     - Refactor GUI rendering code
+- Week X (5/19) [[Code]](./2%20-%20Example/240519%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Implement Ambient Occlusion
+    - Fix lag spike when updating chunks
 
 ## References
 
