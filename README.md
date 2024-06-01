@@ -118,6 +118,12 @@
   - Making Minecraft, Part X
     - Implement Ambient Occlusion
     - Fix lag spike when updating chunks
+- Week X (6/1) [[Code]](./2%20-%20Example/240601%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Implement Interpolation System using trait `Interpolatable`
+    - Apply interpolation to the physics system and FOV
+    - Implement `Timer` for global time management and pause/resume
+    - Implement flying trigger interval
 
 ## References
 
