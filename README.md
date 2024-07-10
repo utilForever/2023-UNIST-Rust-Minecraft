@@ -128,6 +128,9 @@
   - Making Minecraft, Part X
     - Implement Particle System
     - Spawn white particles when breaking blocks
+- Week X (8/10) [[Code]](./2%20-%20Example/240710%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Replace texture atlas with array texture
 
 ## References
 
