@@ -128,9 +128,19 @@
   - Making Minecraft, Part X
     - Implement Particle System
     - Spawn white particles when breaking blocks
-- Week X (8/10) [[Code]](./2%20-%20Example/240710%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+- Week X (7/10) [[Code]](./2%20-%20Example/240710%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
   - Making Minecraft, Part X
     - Replace texture atlas with array texture
+- Week X (7/13) [[Code]](./2%20-%20Example/240713%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Improve Particle System
+      - Use a texture atlas using array texture
+      - Add a lifetime to particles
+    - Improve performance
+      - Batch all particles together into 1 draw call by interleaving the data
+        - Don't use instancing because the texture coordinates must change for each particle
+      - If the block is not at the edge of the chunk, then skip the chunk manager
+    - Change code to spawn block breaking particles more minecraft-like
 
 ## References
 
