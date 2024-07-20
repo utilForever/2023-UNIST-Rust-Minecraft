@@ -141,6 +141,11 @@
         - Don't use instancing because the texture coordinates must change for each particle
       - If the block is not at the edge of the chunk, then skip the chunk manager
     - Change code to spawn block breaking particles more minecraft-like
+- Week X (7/20) [[Code]](./2%20-%20Example/240720%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Add new gameplay features
+      - Sprinting on Left Control or Double Tap Forward
+      - Sneaking on Left Shift
 
 ## References
 
