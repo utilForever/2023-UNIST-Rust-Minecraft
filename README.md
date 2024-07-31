@@ -146,6 +146,14 @@
     - Add new gameplay features
       - Sprinting on Left Control or Double Tap Forward
       - Sneaking on Left Shift
+- Week X (7/31) [[Code]](./2%20-%20Example/240731%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Add FPS counter using `log` and `pretty_env_logger`
+    - Improve Input System
+      - Auto click to place or break blocks
+      - Auto jump frequency throttle
+    - Code Refactoring
+      - Move code for handling input event to `PlayerProperties` and `PlayerPhysicsState`
 
 ## References
 
