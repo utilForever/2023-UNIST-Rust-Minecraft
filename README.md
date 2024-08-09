@@ -157,6 +157,10 @@
 - Week X (8/7) [[Code]](./2%20-%20Example/240807%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
   - Making Minecraft, Part X
     - Implement proof of concept for block in hand
+- Week X (8/9) [[Code]](./2%20-%20Example/240809%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Code Refactoring
+      - Split input and player update into multiple systems (ECS) using `specs`
 
 ## References
 
