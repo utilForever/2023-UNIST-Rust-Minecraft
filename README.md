@@ -161,6 +161,14 @@
   - Making Minecraft, Part X
     - Code Refactoring
       - Split input and player update into multiple systems (ECS) using `specs`
+- Week X (8/12) [[Code]](./2%20-%20Example/240812%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Code Refactoring
+      - Make player inventory and hand as ECS components
+      - Insert particle systems, timer and texture pack as ECS resources
+      - Remove unnecessary components and systems
+      - Rename some types and fields to be more descriptive
+
 
 ## References
 
