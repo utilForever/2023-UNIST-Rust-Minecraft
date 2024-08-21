@@ -168,6 +168,12 @@
       - Insert particle systems, timer and texture pack as ECS resources
       - Remove unnecessary components and systems
       - Rename some types and fields to be more descriptive
+- Week X (8/21) [[Code]](./2%20-%20Example/240821%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Code Refactoring
+      - Put breaking and placing blocks in a separate ECS system
+    - Animate main hand when switching items in the hotbar
+    - Add mouse event for middle click to pick up blocks
 
 
 ## References
