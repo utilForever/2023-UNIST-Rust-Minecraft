@@ -174,7 +174,11 @@
       - Put breaking and placing blocks in a separate ECS system
     - Animate main hand when switching items in the hotbar
     - Add mouse event for middle click to pick up blocks
-
+- Week X (9/25) [[Code]](./2%20-%20Example/240925%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Code Refactoring
+      - Move all rendering into ECS systems
+      - Put chunks into chunk columns
 
 ## References
 
