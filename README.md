@@ -179,6 +179,12 @@
     - Code Refactoring
       - Move all rendering into ECS systems
       - Put chunks into chunk columns
+- Week X (10/4) [[Code]](./2%20-%20Example/241004%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Code Refactoring
+      - Replace dynamic allocated structures with fixed-size arrays
+      - Use `BitVec` for block face visibility
+      - Add some timers for performance profiling
 
 ## References
 
