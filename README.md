@@ -185,6 +185,12 @@
       - Replace dynamic allocated structures with fixed-size arrays
       - Use `BitVec` for block face visibility
       - Add some timers for performance profiling
+- Week X (11/6) [[Code]](./2%20-%20Example/241106%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Code Refactoring
+      - Replace `HashMap` with `Vec` for storing ambient occulsion patterns
+      - Store active faces and ambient occlusion data in memory in order to avoid recalculations
+      - Recalculate them only for the changed surfaces, not the entire chunk
 
 ## References
 
