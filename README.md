@@ -191,6 +191,10 @@
       - Replace `HashMap` with `Vec` for storing ambient occulsion patterns
       - Store active faces and ambient occlusion data in memory in order to avoid recalculations
       - Recalculate them only for the changed surfaces, not the entire chunk
+- Week X (11/20) [[Code]](./2%20-%20Example/241120%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Load one randomized chunk per frame
+    - Implement proof of concept for infinite chunk generation
 
 ## References
 
