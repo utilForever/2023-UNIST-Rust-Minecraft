@@ -195,6 +195,16 @@
   - Making Minecraft, Part X
     - Load one randomized chunk per frame
     - Implement proof of concept for infinite chunk generation
+- Week X (11/27) [[Code]](./2%20-%20Example/241127%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Add new textures for the blocks
+      - Bedrock
+      - Stone
+    - Improve Performance
+      - Make flood fill much faster by replacing `HashSet` with `BitVec`
+      - Replace `HashMap` with `Vec` in struct `ChunkLoading`
+    - Prepare for multithreading by using interior mutability patterns for chunk columns
+      - Parallelize terrain generation by using `rayon` and `parking_lot`
 
 ## References
 
