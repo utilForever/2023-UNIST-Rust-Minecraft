@@ -97,20 +97,20 @@ fn main() {
         .with_thread_local({
             let (glfw, window, events) = create_window(WINDOW_WIDTH, WINDOW_HEIGHT, WINDOW_NAME);
 
-            // gl_call!(gl::Enable(gl::DEBUG_OUTPUT));
-            // gl_call!(gl::Enable(gl::DEBUG_OUTPUT_SYNCHRONOUS));
-            // gl_call!(gl::DebugMessageCallback(
-            //     Some(debug_message_callback),
-            //     std::ptr::null::<c_void>(),
-            // ));
-            // gl_call!(gl::DebugMessageControl(
-            //     gl::DONT_CARE,
-            //     gl::DONT_CARE,
-            //     gl::DONT_CARE,
-            //     0,
-            //     std::ptr::null::<u32>(),
-            //     gl::TRUE
-            // ));
+            gl_call!(gl::Enable(gl::DEBUG_OUTPUT));
+            gl_call!(gl::Enable(gl::DEBUG_OUTPUT_SYNCHRONOUS));
+            gl_call!(gl::DebugMessageCallback(
+                Some(debug_message_callback),
+                std::ptr::null::<c_void>(),
+            ));
+            gl_call!(gl::DebugMessageControl(
+                gl::DONT_CARE,
+                gl::DONT_CARE,
+                gl::DONT_CARE,
+                0,
+                std::ptr::null::<u32>(),
+                gl::TRUE
+            ));
 
             gl_call!(gl::Enable(gl::CULL_FACE));
             gl_call!(gl::CullFace(gl::BACK));
