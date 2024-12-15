@@ -2,6 +2,10 @@
 
 2023-UNIST-Rust-Minecraft is the material(lecture notes, examples and assignments) repository for learning Rust programming language and making simple Minecraft clone game that I'll teach the club 'HeXA' at UNIST in the winter of 2023.
 
+## Updates
+
+- 2024-12-15: Fix problem lag by adding some missing code to update visited chunks (241127 and 241211)
+
 ## Contents
 
 - Week 0 (1/11) [[Lecture]](./1%20-%20Lecture/230111%20-%20Rust%20Basic%20%2B%20Make%20Minecraft%2C%20Week%200.pdf)
