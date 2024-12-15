@@ -94,15 +94,19 @@ impl ChunkLoading {
 
             if !is_visited[coords_to_index(x + 1, z)] {
                 queue.push_back((x + 1, z, dist - 1));
+                is_visited.set(coords_to_index(x + 1, z), true);
             }
             if !is_visited[coords_to_index(x - 1, z)] {
                 queue.push_back((x - 1, z, dist - 1));
+                is_visited.set(coords_to_index(x - 1, z), true);
             }
             if !is_visited[coords_to_index(x, z + 1)] {
                 queue.push_back((x, z + 1, dist - 1));
+                is_visited.set(coords_to_index(x, z + 1), true);
             }
             if !is_visited[coords_to_index(x, z - 1)] {
                 queue.push_back((x, z - 1, dist - 1));
+                is_visited.set(coords_to_index(x, z - 1), true);
             }
         }
 
@@ -143,21 +147,27 @@ impl ChunkLoading {
 
             if !is_visited[coords_to_index(x + 1, y, z)] {
                 queue.push_back((x + 1, y, z, dist - 1));
+                is_visited.set(coords_to_index(x + 1, y, z), true);
             }
             if !is_visited[coords_to_index(x - 1, y, z)] {
                 queue.push_back((x - 1, y, z, dist - 1));
+                is_visited.set(coords_to_index(x - 1, y, z), true);
             }
             if !is_visited[coords_to_index(x, y, z + 1)] {
                 queue.push_back((x, y, z + 1, dist - 1));
+                is_visited.set(coords_to_index(x, y, z + 1), true);
             }
             if !is_visited[coords_to_index(x, y, z - 1)] {
                 queue.push_back((x, y, z - 1, dist - 1));
+                is_visited.set(coords_to_index(x, y, z - 1), true);
             }
             if !is_visited[coords_to_index(x, y + 1, z)] {
                 queue.push_back((x, y + 1, z, dist - 1));
+                is_visited.set(coords_to_index(x, y + 1, z), true);
             }
             if !is_visited[coords_to_index(x, y - 1, z)] {
                 queue.push_back((x, y - 1, z, dist - 1));
+                is_visited.set(coords_to_index(x, y - 1, z), true);
             }
         }
 
