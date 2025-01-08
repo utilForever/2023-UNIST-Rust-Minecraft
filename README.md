@@ -211,9 +211,16 @@
       - Parallelize terrain generation by using `rayon` and `parking_lot`
 - Week X (12/11) [[Code]](./2%20-%20Example/241211%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
   - Making Minecraft, Part X
-    - Improving Performance
+    - Improve Performance
       - Put `RwLock` on every field of `Chunk`
       - Run terrain generation and AO/face occlusion independently from the main thread
+- Week X (1/8) [[Code]](./2%20-%20Example/250108%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Improve Performance
+      - Remove unnecessary `RwLock` on `ChunkManager`
+      - Fix unnecessary heap allocation due to synchronization issues
+      - Small optimization with `ChunkLoading`
+      - Fix VRAM leakage when reusing chunks
 
 ## References
 
