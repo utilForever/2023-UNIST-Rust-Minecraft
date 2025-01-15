@@ -221,6 +221,13 @@
       - Fix unnecessary heap allocation due to synchronization issues
       - Small optimization with `ChunkLoading`
       - Fix VRAM leakage when reusing chunks
+- Week X (1/15) [[Code]](./2%20-%20Example/250115%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Improve Performance
+      - Load chunks in a square pattern
+      - Fix broken opaque chunk optimization while loading chunks
+      - Fix small frame drop when recycling chunks
+      - Prioritize chunks near the player to be loaded first
 
 ## References
 
