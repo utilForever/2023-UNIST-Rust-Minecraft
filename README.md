@@ -228,6 +228,15 @@
       - Fix broken opaque chunk optimization while loading chunks
       - Fix small frame drop when recycling chunks
       - Prioritize chunks near the player to be loaded first
+- Week X (2/17) [[Code]](./2%20-%20Example/250217%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Fix few crashes
+    - Improve Performance
+      - Remove distant chunks
+      - Preallocate chunk columns
+    - Code Refactoring
+      - Fix visual artifacts while loading chunks
+      - Reintroduce tree generation
 
 ## References
 
