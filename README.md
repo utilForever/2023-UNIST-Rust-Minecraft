@@ -282,11 +282,11 @@ You can contact me via e-mail (utilForever at gmail.com). I am always happy to a
 
 ## License
 
-<img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
+<img align="right" src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/OSIApproved_100X125.png">
 
-The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
+The class is licensed under the [MIT License](https://opensource.org/licenses/MIT):
 
-Copyright &copy; 2023 [Chris Ohk](http://www.github.com/utilForever).
+Copyright &copy; 2023-2026 [Chris Ohk](https://www.github.com/utilForever).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
