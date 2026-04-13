@@ -52,7 +52,7 @@
   - Making Minecraft, Part 3
     - Texture Batch Rendering
       - Create a Texture
-      - Texture Mapping  
+      - Texture Mapping
     - Debugging
     - Show FPS
 - Week X (1/24) [[Code]](./2%20-%20Example/240124%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
@@ -237,30 +237,40 @@
     - Code Refactoring
       - Fix visual artifacts while loading chunks
       - Reintroduce tree generation
+- Week X (2/18) [[Code]](./2%20-%20Example/250218%20-%20Rust%20Basic%20+%20Make%20Minecraft,%20Week%20X/)
+  - Making Minecraft, Part X
+    - Bug Fixes
+      - Fix unrendered chunk
+      - Fix crash while generating foliage
+    - Use perlin noise for tree placement
+    - Add fog for better visibility
+    - Improve Performance
+      - Do column flood fill
+      - Chunk resetting in the world generation thread pool
 
 ## References
 
 - Beginner
-  * [The Rust Programming Language](https://doc.rust-lang.org/book/)
-  * [Rustlings](https://github.com/rust-lang/rustlings/)
-  * [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
-  * [Rust-101 by Ralf Jung](https://www.ralfj.de/projects/rust-101/main.html)
-  * [Exercism - Rust](https://exercism.org/tracks/rust)
-  * [Book: The Rust Programming Language](http://www.yes24.com/Product/Goods/83075894)
-  * [Book: Rust in Action](https://www.manning.com/books/rust-in-action)
-  * [Book: Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+  - [The Rust Programming Language](https://doc.rust-lang.org/book/)
+  - [Rustlings](https://github.com/rust-lang/rustlings/)
+  - [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
+  - [Rust-101 by Ralf Jung](https://www.ralfj.de/projects/rust-101/main.html)
+  - [Exercism - Rust](https://exercism.org/tracks/rust)
+  - [Book: The Rust Programming Language](http://www.yes24.com/Product/Goods/83075894)
+  - [Book: Rust in Action](https://www.manning.com/books/rust-in-action)
+  - [Book: Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 - Intermediate
-  * [The Standard Library](https://doc.rust-lang.org/std/index.html)
-  * [The Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
-  * [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
-  * [The rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
-  * [The rustc Book](https://doc.rust-lang.org/rustc/index.html)
-  * [Book: Concurrent Programming](http://www.yes24.com/Product/Goods/108570426)
-  * [Book: Rust for Rustaceans](https://rust-for-rustaceans.com/)
+  - [The Standard Library](https://doc.rust-lang.org/std/index.html)
+  - [The Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
+  - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+  - [The rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
+  - [The rustc Book](https://doc.rust-lang.org/rustc/index.html)
+  - [Book: Concurrent Programming](http://www.yes24.com/Product/Goods/108570426)
+  - [Book: Rust for Rustaceans](https://rust-for-rustaceans.com/)
 - Advanced
-  * [The Rust Reference](https://doc.rust-lang.org/reference/index.html)
-  * [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
-  * [The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)
+  - [The Rust Reference](https://doc.rust-lang.org/reference/index.html)
+  - [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
+  - [The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)
 
 ## How To Contribute
 
